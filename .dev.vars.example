@@ -1,0 +1,16 @@
+# Copia como .dev.vars. Valores solo para pruebas locales.
+INVITE_CODE=POETISA-PRUEBA-LOCAL
+EMAIL_ENABLED=false
+PUSH_SCHEDULE_ENABLED=false
+TRUST_SITES_IDENTITY=false
+# Registro opcional: usa tu propio proyecto.
+# FIREBASE_PROJECT_ID=
+# FIREBASE_WEB_API_KEY=
+# FIREBASE_AUTH_DOMAIN=
+# Secreto opcional del servidor; nunca del navegador.
+# OPENAI_API_KEY=
+# Avisos: claves y programador propios.
+# VAPID_PUBLIC_KEY=
+# VAPID_PRIVATE_KEY=
+# PUBLIC_ORIGIN=
+# REMINDER_OWNER_EMAIL=
