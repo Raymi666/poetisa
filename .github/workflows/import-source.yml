@@ -1,0 +1,45 @@
+name: Importar fuente inicial de PoetisA
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    if: github.repository == 'Raymi666/poetisa' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verificar y extraer la distribucion revisada
+        run: |
+          python3 - <<'PYTHON'
+          import hashlib, pathlib, stat, zipfile
+          archive = pathlib.Path('PoetisA_Codigo_Abierto.zip')
+          expected = '433f8192e03b2d6001699809324f12bec87ed58b0a8fbeb493d1c50ff8b36d40'
+          assert hashlib.sha256(archive.read_bytes()).hexdigest() == expected, 'Archivo inesperado'
+          with zipfile.ZipFile(archive) as z:
+              entries = z.infolist()
+              assert len(entries) == 175
+              assert len({i.filename for i in entries}) == 175
+              for i in entries:
+                  p = pathlib.PurePosixPath(i.filename)
+                  assert len(p.parts) >= 2 and p.parts[0] == 'poetisa'
+                  assert not p.is_absolute() and '..' not in p.parts
+                  assert not i.is_dir() and not stat.S_ISLNK(i.external_attr >> 16)
+                  rel = pathlib.Path(*p.parts[1:])
+                  assert '.git' not in rel.parts
+                  assert rel.name not in ('.env', '.dev.vars')
+                  if str(rel).startswith('.github/workflows/'):
+                      assert str(rel) == '.github/workflows/checks.yml'
+                      continue
+                  rel.parent.mkdir(parents=True, exist_ok=True)
+                  rel.write_bytes(z.read(i))
+          archive.unlink()
+          PYTHON
+      - name: Publicar las carpetas de codigo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git commit -m "Publicar el codigo completo de PoetisA y sus colecciones"
+          git push origin HEAD:main
