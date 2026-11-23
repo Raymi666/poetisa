@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793476265150,
+      "tag": "0000_chubby_black_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1793489317806,
+      "tag": "0001_omniscient_fixer",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1793992177436,
+      "tag": "0002_dear_mandroid",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1794058595665,
+      "tag": "0003_chemical_wild_child",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1794066543121,
+      "tag": "0004_remove_duplicate_legacy",
+      "breakpoints": true
+    }
+  ]
+}

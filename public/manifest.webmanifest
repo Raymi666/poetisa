@@ -1,0 +1,50 @@
+{
+  "id": "/poetisa",
+  "name": "PoetisA",
+  "short_name": "PoetisA",
+  "description": "Tu encuentro diario con la poesía chilena: tres palabras, un poema y tu cuaderno privado.",
+  "start_url": "/poetisa?source=installed",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#315f61",
+  "theme_color": "#315f61",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/icon-pilot-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-pilot-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": [
+    "books",
+    "lifestyle"
+  ],
+  "shortcuts": [
+    {
+      "name": "Mi encuentro de hoy",
+      "url": "/poetisa"
+    },
+    {
+      "name": "Mis recordatorios",
+      "url": "/poetisa?view=reminders"
+    },
+    {
+      "name": "Mi cuaderno",
+      "url": "/poetisa?view=notebook"
+    }
+  ]
+}

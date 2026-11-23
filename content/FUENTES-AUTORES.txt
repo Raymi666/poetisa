@@ -1,0 +1,27 @@
+PoetisA — primera colección de poetas chilenos. Revisión: 6 de noviembre de 2026.
+
+Alcance: cuatro poemas completos; dos autores. Se excluyen ampliaciones que no pudieron cotejarse a tiempo. No se incorpora el material editorial moderno de los repositorios.
+
+VICENTE HUIDOBRO (1893–1948)
+Biografía institucional y cronología: https://www.memoriachilena.gob.cl/602/w3-article-7676.html
+Catálogo original El espejo de agua (1916): https://archivospatrimoniales.uc.cl/handle/123456789/81986?show=full
+Arte poética: transcripción U. Chile https://www.vicentehuidobro.uchile.cl/poema6.htm (atribuye explícitamente El espejo de Agua, 1916).
+Noche: transcripción U. Chile https://www.vicentehuidobro.uchile.cl/poema14.htm (Poemas árticos, 1918).
+Sombra: transcripción U. Chile https://www.vicentehuidobro.uchile.cl/poema19.htm (Poemas árticos, 1918).
+Base legal Chile: artículos 10 y 11 de Ley 17.336: https://www.bcn.cl/leychile/navegar?idNorma=28933
+Obras originales anteriores a 1931; no se reproducen notas editoriales modernas.
+Se normalizaron sangrías/espacios de la maquetación HTML. Noche corrige NAVÍ0 a NAVÍO. La presentación tipográfica de poemas vanguardistas en pantalla no conserva posiciones horizontales de una edición impresa; se advierte en transcriptionNote. El facsímil UC se localizó, pero su descarga quedó pendiente de aprobación y luego abortada: NO se afirma cotejo visual contra ese facsímil. Fuentes efectivamente leídas: las tres transcripciones institucionales U. de Chile.
+
+CARLOS PEZOA VÉLIZ (1879–1908)
+Tarde en el Hospital: https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0073082.pdf (poema completo, p.77, seguido por nota crítica NO reproducida).
+Colección de procedencia Alma chilena (1912): https://www.memoriachilena.gob.cl/602/w3-article-8013.html . Ficha expresa Propiedad intelectual: Patrimonio cultural común y declara que puede ser utilizado y reproducido libremente.
+Contexto de la recopilación: https://www.memoriachilena.gob.cl/602/w3-article-92135.html
+Se preserva el texto y puntuación del facsímil MC0073082, no se afirma reproducción de la puntuación exacta de la edición de1912.
+
+Notas editoriales, temas y palabras clave: redactados para selección temática de PoetisA; no forman parte de los poemas.
+
+ENLACES DE DESCARGA ADICIONALES
+El espejo de agua: https://archivospatrimoniales.uc.cl/bitstream/handle/123456789/81986/El%20espejo%20de%20agua-%20Vic.%20Huidobro.pdf?isAllowed=y&sequence=1
+Poemas árticos: https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067418.pdf
+Alma chilena: https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0005178.pdf
+Estos enlaces permiten consultar el libro; la transcripción utilizada conserva su propia fuente indicada en cada ficha.

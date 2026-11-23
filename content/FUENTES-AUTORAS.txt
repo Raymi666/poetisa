@@ -1,0 +1,53 @@
+POETISA · PRIMERA COLECCIÓN DE AUTORAS CHILENAS
+Verificación: 6 de noviembre de 2026.
+
+RESULTADO
+10 textos completos: ocho poemas en verso de Gabriela Mistral y dos poemas en prosa de Teresa Wilms Montt. No se añadieron versos generados, paráfrasis dentro del poema ni atribuciones de memoria. Los campos note son lecturas editoriales originales, separadas de las obras.
+
+FUENTES Y DERECHOS
+
+1) Gabriela Mistral (1889–1957), Desolación, Nueva York: Instituto de las Españas en los Estados Unidos, 1922. Ejemplar de Biblioteca Nacional de Chile, Memoria Chilena, MC0076802.
+Ficha: https://www.memoriachilena.gob.cl/602/w3-article-639105.html
+Facsímil: https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0076802.pdf
+La ficha institucional indica «Patrimonio cultural común» y declara que el documento puede ser utilizado y reproducido libremente. Se utiliza la edición original de 1922. La mención impresa de copyright de 1922 no indica vigencia actual. La fecha de fallecimiento por sí sola no basta para interpretar la situación histórica chilena; la ficha institucional de esta edición es la evidencia usada aquí.
+Control adicional de la primera edición en Columbia University Libraries: https://exhibitions.library.columbia.edu/exhibits/show/the_hispanic_institute_between/item/12564 (No Copyright–United States).
+
+2) Teresa Wilms Montt (1893–1921), Inquietudes sentimentales, Buenos Aires: Imprenta Mercatali, 1917. Ejemplar de Biblioteca Nacional de Chile, Memoria Chilena, MC0075728.
+Ficha: https://www.memoriachilena.gob.cl/602/w3-article-620848.html
+Facsímil: https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075728.pdf
+Biografía institucional: https://www.memoriachilena.gob.cl/602/w3-article-805.html
+La ficha institucional indica «Patrimonio cultural común» y autoriza uso y reproducción libres. Autora fallecida en 1921. La ficha presenta una inconsistencia en el pie de imprenta: incluye datos de Madrid, 1918, ajenos a la portada del ejemplar. La portada, visualmente comprobada en página PDF 9, dice Buenos Aires, Imprenta Mercatali, 1917. Se siguen estos datos de la fuente primaria. El año 1917 coincide con la biografía institucional.
+
+CONTROL DE TRANSCRIPCIÓN
+Se extrajo OCR para localizar los textos, pero cada página incluida se renderizó y leyó visualmente. Se corrigieron errores del OCR contra la imagen. La transcripción conserva vocabulario, acentos históricos, puntuación y estrofas del ejemplar; normaliza espacios y puntos suspensivos. Los versos que atraviesan un cambio de página se reunieron en su estrofa. Se conservan las dedicatorias de El niño solo y Piececitos. Se excluyen números de página y encabezados corrientes.
+Se mantiene la puntuación peculiar de 1922 en El amor que calla (exclamación final sin apertura en la primera estrofa) y Piececitos (doble apertura de la primera estrofa). No se sustituyen por versiones modernas silenciosamente.
+En El encuentro se elimina únicamente la distinción tipográfica de cursiva de «y se llevó mis miradas…», que pasa a redonda en texto plano. Está documentado en transcriptionNote.
+En Teresa se conservan los números romanos de los poemas en el título y los párrafos de prosa. No se inventan títulos a partir del primer verso.
+
+PÁGINAS VERIFICADAS
+El niño solo — Gabriela Mistral — Biblioteca Nacional de Chile · Memoria Chilena · Desolación (1922), p. 19
+https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0076802.pdf#page=39
+Palabras serenas — Gabriela Mistral — Biblioteca Nacional de Chile · Memoria Chilena · Desolación (1922), pp. 24–25
+https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0076802.pdf#page=44
+Piececitos… — Gabriela Mistral — Biblioteca Nacional de Chile · Memoria Chilena · Desolación (1922), pp. 55–56
+https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0076802.pdf#page=75
+Doña Primavera — Gabriela Mistral — Biblioteca Nacional de Chile · Memoria Chilena · Desolación (1922), pp. 68–69
+https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0076802.pdf#page=88
+El encuentro — Gabriela Mistral — Biblioteca Nacional de Chile · Memoria Chilena · Desolación (1922), pp. 97–98
+https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0076802.pdf#page=117
+El amor que calla — Gabriela Mistral — Biblioteca Nacional de Chile · Memoria Chilena · Desolación (1922), p. 101
+https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0076802.pdf#page=121
+Vergüenza — Gabriela Mistral — Biblioteca Nacional de Chile · Memoria Chilena · Desolación (1922), pp. 110–111
+https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0076802.pdf#page=130
+La lluvia lenta — Gabriela Mistral — Biblioteca Nacional de Chile · Memoria Chilena · Desolación (1922), pp. 166–167
+https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0076802.pdf#page=186
+Inquietudes sentimentales, V — Teresa Wilms Montt — Biblioteca Nacional de Chile · Memoria Chilena · Inquietudes sentimentales (1917), p. 17
+https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075728.pdf#page=23
+Inquietudes sentimentales, VIII — Teresa Wilms Montt — Biblioteca Nacional de Chile · Memoria Chilena · Inquietudes sentimentales (1917), p. 23
+https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075728.pdf#page=29
+
+ALCANCE Y LÍMITES
+La colección se apoya en la declaración de patrimonio cultural común de la Biblioteca Nacional de Chile y en ediciones de 1917 y 1922. No pretende afirmar que cualquier edición moderna, traducción, prólogo o ilustración sea reutilizable. Tampoco se afirma un dominio público universal para todos los países: en Mistral la regulación histórica chilena debe distinguirse de otros regímenes. No se incorporan obras posteriores de Mistral (por ejemplo Tala o Lagar) ni textos de Neruda o poetas vivos.
+Las transcripciones HTML de Universidad de Chile se consultaron como apoyo, pero se detectaron variantes respecto de 1922. El JSON sigue exclusivamente las páginas del facsímil aquí citadas. Se descartaron textos de datación editorial incierta para esta primera entrega.
+Los enlaces directos al facsímil pueden tardar en cargar: Desolación pesa aproximadamente 250 MB e Inquietudes sentimentales 66 MB. La aplicación solo necesita distribuir el JSON de texto; no debe incluir los PDFs completos.
+La afinidad de themes y keywords es editorial; no significa que todos esos términos aparezcan literalmente en el poema.
